@@ -1,4 +1,4 @@
-# NestJS + TypeORM + MySQL 用户查询示例
+# Demo
 
 本项目基于 [NestJS](https://nestjs.com/) 框架，集成 TypeORM，演示如何查询 MySQL 数据库中的用户（id 和 name 字段）。
 
