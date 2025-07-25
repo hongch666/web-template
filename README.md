@@ -1,4 +1,4 @@
-# demo
+# Demo
 
 本项目为 Spring Boot + MyBatis-Plus 示例工程。
 
