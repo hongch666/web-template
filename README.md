@@ -1,4 +1,4 @@
-# Gin + GORM Demo
+# Demo
 
 本项目是一个基于 Go 语言的 Gin Web 框架和 GORM ORM 的分层示例项目。
 
